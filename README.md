@@ -13,3 +13,19 @@ __Date__: 19th & 21st Jan 2021
 - **Assignment**: Howework 0
   - Available on classes.nyu.edu
 
+
+
+## Week 2
+
+__Date__: 26th & 28th Jan 2021
+
+- **Lecture**: [Intermediate Functions](3%20Intermediate%20Functions)
+  - [[Video](https://youtu.be/Pvm36Ac1__o)] [Inline Functions](3%20Intermediate%20Functions/Inline%20Functions)
+  - [[Video](https://youtu.be/zUhPJQRQAlg)] [Recursion](3%20Intermediate%20Functions/Recursions) 
+  - [[Video](https://youtu.be/PcaEwDK7bmc)] [Function Overloading](3%20Intermediate%20Functions//Function%20Overloading) 
+  - [[Video](https://youtu.be/RFEOlZLWjes)] [Function Template](3%20Intermediate%20Functions/Function%20Template)
+  - [[Video](https://youtu.be/REnYOuRpXyI)] [Namespaces](3%20Intermediate%20Functions/Namespaces)
+  - [[Video](https://youtu.be/PuUb4euIPGI)] [Files and Streams](3%20Intermediate%20Functions/Files%20and%20Streams)
+- **Assignment**: Howework 1
+  - Available on classes.nyu.edu
+
