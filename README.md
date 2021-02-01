@@ -19,7 +19,7 @@ __Date__: 19th & 21st Jan 2021
 
 __Date__: 26th & 28th Jan 2021
 
-- **Lecture**: [Intermediate Functions](3%20Intermediate%20Functions)
+- **Lecture**: [[Video Playlist](https://www.youtube.com/playlist?list=PLViFAnmN74nC9_DHUqACoaaUhxxAvx-KI)] [Intermediate Functions](3%20Intermediate%20Functions)
   - [[Video](https://youtu.be/Pvm36Ac1__o)] [Inline Functions](3%20Intermediate%20Functions/Inline%20Functions)
   - [[Video](https://youtu.be/zUhPJQRQAlg)] [Recursion](3%20Intermediate%20Functions/Recursions) 
   - [[Video](https://youtu.be/PcaEwDK7bmc)] [Function Overloading](3%20Intermediate%20Functions//Function%20Overloading) 
@@ -27,5 +27,20 @@ __Date__: 26th & 28th Jan 2021
   - [[Video](https://youtu.be/REnYOuRpXyI)] [Namespaces](3%20Intermediate%20Functions/Namespaces)
   - [[Video](https://youtu.be/PuUb4euIPGI)] [Files and Streams](3%20Intermediate%20Functions/Files%20and%20Streams)
 - **Assignment**: Howework 1
+  - Available on classes.nyu.edu
+
+
+
+## Week 3
+
+__Date__: 2nd & 4th Feb 2021
+
+- **Lecture**: [[Video Playlist](https://www.youtube.com/playlist?list=PLViFAnmN74nCDG4MEWcsOcJxM8SqOcqj6)] [Classes and Objects](4%20Classes%20and%20Objects)
+  - [[Video #1](https://youtu.be/KuEFkl5UPk8) and [Video #2](https://youtu.be/6SUODnSBNRA)] [Defining Classes and Objects](4%20Classes%20and%20Objects/Class)
+  - [[Video](https://youtu.be/A-foS6TpquU)] [Setters and Getters](4%20Classes%20and%20Objects/Setters%20and%20Getters)
+  - [[Video](https://youtu.be/0eZtqoiDxU8)] [Constructors](4%20Classes%20and%20Objects/Constructors) and [Destructors](4%20Classes%20and%20Objects/Destructors)
+  - [[Video](https://youtu.be/mlo9_97qdv4)] [Functions of Objects](4%20Classes%20and%20Objects/Functions%20of%20Objects)
+  - [[Video](https://youtu.be/WGtXVOikyEw)] [Pointers to Objects](4%20Classes%20and%20Objects/Pointers%20to%20Objects)
+- **Assignment**: Howework 2
   - Available on classes.nyu.edu
 
