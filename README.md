@@ -44,3 +44,13 @@ __Date__: 2nd & 4th Feb 2021
 - **Assignment**: Howework 2
   - Available on classes.nyu.edu
 
+## Week 4
+
+__Date__: 9th & 11th Feb 2021
+
+- **Lecture**: [Class Templates](5%20Class%20Templates)
+  - [[Video](https://youtu.be/lIIIx_nwOe0)] [C++ Class Templates](5%20Class%20Templates/Class%20Templates)
+  - [[Video](https://youtu.be/4mc6ngCPlu8)] [C++ STL library](5%20Class%20Templates/STL%20Library)
+  - [[Video](https://youtu.be/inJXnwTHaSE)] [Constant Member Functions](5%20Class%20Templates/Constant%20Member%20Functions)
+- **Assignment**: Howework 3
+  - Available on classes.nyu.edu
