@@ -44,6 +44,8 @@ __Date__: 2nd & 4th Feb 2021
 - **Assignment**: Howework 2
   - Available on classes.nyu.edu
 
+
+
 ## Week 4
 
 __Date__: 9th & 11th Feb 2021
@@ -53,4 +55,20 @@ __Date__: 9th & 11th Feb 2021
   - [[Video](https://youtu.be/4mc6ngCPlu8)] [C++ STL library](5%20Class%20Templates/STL%20Library)
   - [[Video](https://youtu.be/inJXnwTHaSE)] [Constant Member Functions](5%20Class%20Templates/Constant%20Member%20Functions)
 - **Assignment**: Howework 3
+  - Available on classes.nyu.edu
+
+
+
+## Week 5
+
+__Date__: 16th & 18th Feb 2021
+
+- **Lecture**: [Friendship, Inheritance, and Polymorphism](6%20Friendship)
+  - [[Video #1](https://youtu.be/t9S9VslpfII) and [Video #2](https://youtu.be/MtWq0cOkYxo)] [Friendship](6%20Friendship/Friendship)
+  - [[Video](https://youtu.be/RATsW98xvCs)] [Inheritance](6%20Friendship/Inheritance)
+  - [[Video](https://youtu.be/toLEI1DYQSM)] [Function Overriding](6%20Friendship/Function%20Overriding)
+  - [[Video](https://youtu.be/oPXQz91QgqI)] [Virtual Functions](6%20Friendship/Virtual%20Functions) 
+  - [[Video](https://youtu.be/p_NtO4OLA_0)] [Operator Overloading](6%20Friendship/Operator%20Overloading)
+  - [[Video](https://youtu.be/c47mseyJ_4w)] [Polymorphism](6%20Friendship/Polymorphism)
+- **Assignment**: Howework 4
   - Available on classes.nyu.edu
