@@ -72,3 +72,19 @@ __Date__: 16th & 18th Feb 2021
   - [[Video](https://youtu.be/c47mseyJ_4w)] [Polymorphism](6%20Friendship/Polymorphism)
 - **Assignment**: Howework 4
   - Available on classes.nyu.edu
+
+
+
+## Week 6
+
+__Date__: 23rd & 25th Feb 2021
+
+- **Lecture**: [Performance](7%20Performance)
+  - [[Video](https://youtu.be/2eG2qsLu5u4)] [Exceptions](7%20Performance/Exceptions)
+  - [[Video](https://youtu.be/muph4hZ3Wzw)] [Multi-file Code](7%20Performance/Multi-file%20Code)
+  - [[Video](https://youtu.be/9NmMdOuKbe4)] [Compiling Code](7%20Performance/Compiling%20Code)
+  - [[Video](https://youtu.be/Gnv3ApD_6q0)] [Compiler Operation](7%20Performance/Compiler%20Operation)
+  - [[Video](https://youtu.be/opaMPuUmHq0)] [Makefiles](7%20Performance/Makefiles)
+
+- **Assignment**: Course Project.
+
