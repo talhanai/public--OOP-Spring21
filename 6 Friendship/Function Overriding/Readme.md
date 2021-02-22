@@ -35,10 +35,11 @@ class Bat: public Mammal, public WingedAnimal {
   private:
     string printStatement = "A new animal.";
   
-  public:
-    void printMe(){
-      cout << printStatement << "\n";
-    }
+  // *Uncomment to allow for function overriding
+  // public:
+  //  void printMe(){
+  //    cout << printStatement << "\n";
+  //  }
 
 };
 
@@ -50,7 +51,7 @@ int main()
     b1.Mammal::printMe();
     b1.WingedAnimal::printMe();
     
-    // function overriding
+    // *function overriding error
     b1.printMe();
     
     return 0;
