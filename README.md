@@ -85,6 +85,5 @@ __Date__: 23rd & 25th Feb 2021
   - [[Video](https://youtu.be/9NmMdOuKbe4)] [Compiling Code](7%20Performance/Compiling%20Code)
   - [[Video](https://youtu.be/Gnv3ApD_6q0)] [Compiler Operation](7%20Performance/Compiler%20Operation)
   - [[Video](https://youtu.be/opaMPuUmHq0)] [Makefiles](7%20Performance/Makefiles)
-
 - **Assignment**: Course Project.
 
